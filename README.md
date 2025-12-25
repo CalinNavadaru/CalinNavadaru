@@ -11,5 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=CalinNavadaru&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CalinNavadaru&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CalinNavadaru&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalinNavadaru)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
