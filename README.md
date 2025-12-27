@@ -10,3 +10,5 @@
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=CalinNavadaru&theme=dark&hide_border=false)<br/>
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?CalinNavadaru" frameborder="0"></iframe>
