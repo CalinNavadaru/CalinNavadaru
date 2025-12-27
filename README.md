@@ -10,4 +10,4 @@
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=CalinNavadaru&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalinNavadaru)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalinNavadaru)<br/>
